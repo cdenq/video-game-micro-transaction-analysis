@@ -5,6 +5,8 @@
 1) pulls, sorts, and performs statistical summaries on a video-game's micro-transactions data, and
 2) discusses 3 insights from the resulting code
 
+This project builds on the skills from the `python-challenge` [here](https://github.com/cdenq/python-challenge).
+
 ## Built with
 - Python
     - Pandas
