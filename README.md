@@ -1,7 +1,7 @@
 # pandas-challenge
 ## Heroes Of Pymoli
 
-`Heroes Of Pymoli` is a Python data analytics home-project that:
+`Heroes Of Pymoli` is a Python data analytics endeavor that:
 1) pulls, sorts, and performs statistical summaries on a video-game's micro-transactions data, and
 2) discusses 3 insights from the resulting code
 
