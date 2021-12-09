@@ -11,11 +11,11 @@ This project builds on the skills from the `python-challenge` [here](https://git
 - Python
     - Pandas
 
-## Technical Techniques
+## Technical Skills
 - Sorting, filtering
 - Summary statistics, binning, aggregating
 
-## Qualitative Techniques
+## Qualitative Skills
 - Synthesizing results for tentative conclusions
 - Acknowledging potential pitfalls with results and techniques
 
