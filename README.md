@@ -1,11 +1,12 @@
-# pandas-challenge
+# video-game-micro-transaction-analysis
 ## Heroes Of Pymoli
 
-`Heroes Of Pymoli` is a Python data analytics endeavor that:
+`Heroes Of Pymoli` is a Python data analytics challenge that:
 1) pulls, sorts, and performs statistical summaries on a video-game's micro-transactions data, and
 2) discusses 3 insights from the resulting code
+on in-game micro-transaction data from the video game: Heroes of Pymoli.
 
-This project builds on the skills from the `python-challenge` [here](https://github.com/cdenq/python-challenge).
+Goal is to provide cursory characteristics of the highest spending customer segment.
 
 ## Built with
 - Python
